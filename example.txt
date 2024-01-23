@@ -1,3 +1,6 @@
 Content for feature_merge_conflict1
 ляпка
+<<<<<<< HEAD
 пупка дупка
+=======
+>>>>>>> e786c2a14f89c57ba04cb80c6f229005b6c88ee4
